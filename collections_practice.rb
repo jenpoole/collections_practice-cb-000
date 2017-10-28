@@ -57,7 +57,6 @@ end
 # Add an "s" to each word in the array except for the 2nd element in the array
   # each_with_index method: Call block with two arguments, the item and its index, for each item.
   # Given arguments (both the item and its index) are passed through to each().
-
   # https://apidock.com/ruby/Array/collect
   # collect method: Create a new array containing the values returned by the block
 def add_s(array)
